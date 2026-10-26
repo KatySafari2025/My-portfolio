@@ -6,6 +6,10 @@ I'm **Katy Safari**, a Computer Science student at **Pwani University** with a g
 
 This portfolio showcases my journey in technology, the skills I'm developing, and the projects I'm working on as I continue learning and gaining practical experience.
 
+## Live Demo
+
+**View the live site:** [katysafari2025.github.io/My-portfolio](https://katysafari2025.github.io/My-portfolio/)
+
 ---
 
 ## About the Portfolio
@@ -24,7 +28,7 @@ My portfolio provides an overview of my:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 The portfolio is built using:
 
@@ -67,7 +71,7 @@ An academic group project focused on improving access to information about water
 
 ---
 
-### ☕ Coffee Shop Sales Analysis
+### Coffee Shop Sales Analysis
 
 A data-analysis project using coffee-shop transaction data to clean, explore, analyze, and visualize sales patterns across products and store locations.
 
